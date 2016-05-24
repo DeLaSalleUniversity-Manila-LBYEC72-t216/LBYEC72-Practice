@@ -3,7 +3,7 @@
 ## First-time Push process
 
 1. Open git bash command line tool.
-2. Change to the directory of your project. Ex. ``` cd Documents/LBYEC72-EK2/Practice ``` 
+2. Change to the directory of your project. Ex. ``` cd Documents/LBYEC72-SECTION/Practice ``` 
 3. Initialize the repository with ``` git init ```.
 4. Add files with ``` git add --all```.
 5. Commit the changes with ``` git commit -m "added <describe-your-changes>"```.
@@ -28,7 +28,7 @@
 
 int main(){
 	puts("Melvin Cabatuan");
-	puts("Hello LBYEC 72!");
+	puts("Hello LBYEC72!");
 	system("pause");
 	return 0;
 }
